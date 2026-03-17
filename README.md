@@ -40,7 +40,6 @@ plt.scatter(x,y)
 plt.plot([min(x),max(x)],[min(yp),max(yp)],color='red')
 plt.show()
 
-
 ```
 ## Output
 ![9th](https://github.com/user-attachments/assets/ea94acd9-97bf-4297-8351-bcee798e2343)
