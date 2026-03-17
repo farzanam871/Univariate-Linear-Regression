@@ -45,7 +45,8 @@ plt.show()
 
 <img width="1032" height="432" alt="image" src="https://github.com/user-attachments/assets/3de71ab5-3ffd-426d-8cf7-7afb4021b16c" />
 
-![9th ex](https://github.com/user-attachments/assets/fe0f3649-0e22-4e5d-9b40-449c859d83b5)
+![9th ex](https://github.com/user-attachments/assets/f7a043f1-0304-40a4-ae66-273fc4b4419c)
+
 
 
 
